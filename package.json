@@ -1,0 +1,12 @@
+{
+  "name": "bytebank-javascript-orientado-objeto",
+  "version": "1.0.0",
+  "description": "Projeto bytebank curso orientadcao a objeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramonFernandes",
+  "license": "ISC",
+  "type": "module"
+}
